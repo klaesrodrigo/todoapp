@@ -8,7 +8,7 @@ export default props => (
     <Grid cols='12 9 10'>
       <input type='name' id='description' className='form-control'
         onChange={props.handleChange}
-        placeholder='Adiione uma tarefa' />
+        placeholder='Adicione uma tarefa' />
     </Grid>
 
     <Grid cols='12 3 2'>
