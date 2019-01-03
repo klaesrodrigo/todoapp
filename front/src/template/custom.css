@@ -6,3 +6,11 @@
     text-decoration: line-through;
     color: #777;
 }
+
+.todoForm{
+    padding-bottom: 70px;
+}
+
+.actionsColumn{
+    width: 105px;
+}
